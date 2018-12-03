@@ -1,1 +1,2 @@
-<?php echo "test file content updated"; ?>
+<?php echo "Test Content Added"; ?>
+<?php echo "test file content updated pull"; ?>
