@@ -1,1 +1,1 @@
-<?php echo "test updated file."; ?>
+<?php echo "test"; ?>
